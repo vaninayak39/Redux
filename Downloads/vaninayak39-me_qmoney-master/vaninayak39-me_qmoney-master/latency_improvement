@@ -1,0 +1,22 @@
+Before
+real    0m0.952s
+user    0m0.246s
+sys     0m0.053s
+
+real    0m7.733s
+user    0m0.346s
+sys     0m0.080s
+
+real    0m0.453s
+user    0m0.329s
+sys     0m0.044s
+
+After
+real    0m0.558s
+user    0m0.321s
+sys     0m0.037s
+
+real    0m0.385s
+user    0m0.266s
+sys     0m0.028s
+
